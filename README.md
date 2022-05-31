@@ -33,7 +33,7 @@
 <br /><br />
 * How does replacing the ninth-grade scores affect the following:
     * Math and Reading scores by grade
-    <br />*Math Scores by Grade - Module DataFrame*
+    <br />*Math Scores by Grade - Module DataFrame*<br />
     ![module_math_scores_grade](/Resources/math_scores_by_grade_module.PNG)
     <br />*Math Scores by Grade - Adjusted DataFrame*
     ![adjusted_math_scores_grade](/Resources/math_scores_by_grade_adjusted.PNG)
