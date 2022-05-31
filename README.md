@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
--- insert purpose here later --
+The client needed an analysis of testing and funding data within their school district to help the school board determine where they should allocate resources.
 
 ## Results
 
