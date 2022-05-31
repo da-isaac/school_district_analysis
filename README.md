@@ -16,8 +16,7 @@
 <br />Ultimately, the district summary didn't see that much of an impact. There was a slight decrease in averages scores for math and reading, and in the percentage of students who passed, but because the students that were removed from the data were such a small piece of the dataset, its impact on a general level was small.
 <br /><br />
 * How is the school summary affected?
-<br />
-*School Summary - Module DataFrame*
+<br />*School Summary - Module DataFrame*
 ![module_per_school_summary](/Resources/per_school_summary_df_module.PNG)
 
 <br />*School Summary - Adjusted DataFrame*
