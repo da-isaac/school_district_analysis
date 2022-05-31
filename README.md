@@ -21,42 +21,45 @@
 
 <br />*School Summary - Adjusted DataFrame*
 ![adjusted_per_school_summary](/Resources/per_school_summary_df_adjusted.PNG)
-
+<br/>Slight decrease in math score, slight increase in reading score, decrease in passing math, decrease in passing reading, decrease in passing overall
 <br /><br />
 * How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?
-<br />
-*Top Schools - Module DataFrame*
+<br />*Top Schools - Module DataFrame*
 ![module_top_schools](/Resources/top_schools_module.PNG)
 
-<br />
-*Top Schools - Adjusted DataFrame*
+<br />*Top Schools - Adjusted DataFrame*
+![adjusted_top-schools](/Resources/top_schools_adjusted.PNG)
 -- analysis --
 <br /><br />
 * How does replacing the ninth-grade scores affect the following:
     * Math and Reading scores by grade
     <br />*Math Scores by Grade - Module DataFrame*
-    <br />
     ![module_math_scores_grade](/Resources/math_scores_by_grade_module.PNG)
     <br />*Math Scores by Grade - Adjusted DataFrame*
+    ![adjusted_math_scores_grade](/Resources/math_scores_by_grade_adjusted.PNG)
     <br /> -- analysis --
-    <br />**Reading Scores by Grade - Module DataFrame**
+    <br />*Reading Scores by Grade - Module DataFrame*
     ![module_reading_scores_grade](/Resources/reading_scores_by_grade_module.PNG)
-    <br />**Reading Scores by Grade - Adjusted DataFrame**
+    <br />*Reading Scores by Grade - Adjusted DataFrame*
+    ![module_reading_scores_grade](/Resources/reading_scores_by_grade_adjusted.PNG)
     <br /> -- analysis --
     * Scores by school spending
-    <br />**Scores by School Spending - Module DataFrame**
+    <br />*Scores by School Spending - Module DataFrame*
     ![module_scores_by_spending](/Resources/scores_by_spending_module.PNG)
-    <br />**Scores by School Spending - Adjusted DataFrame**
+    <br />*Scores by School Spending - Adjusted DataFrame*
+    ![adjusted_scores_by_spending](/Resources/scores_by_spending_adjusted.PNG)
     <br /> -- analysis --
     * Scores by school size
-    <br />**Scores by School Size - Module DataFrame**
+    <br />*Scores by School Size - Module DataFrame*
     ![module_scores_by_size](/Resources/scores_by_size_module.PNG)
-    <br />**Scores by School Size - Adjusted DataFrame**
+    <br />*Scores by School Size - Adjusted DataFrame*
+    ![adjusted_scores_by_size](Resources/scores_by_size_adjusted.PNG)
     <br /> -- analysis --
     * Scores by school type
-    <br />**Scores by School Type - Module DataFrame**
+    <br />*Scores by School Type - Module DataFrame*
     ![module_scores_by_type](/Resources/scores_by_type_module.PNG)
-    <br />**Scores by School Type - Adjusted DataFrame**
+    <br />*Scores by School Type - Adjusted DataFrame*
+    ![adjusted_scores_by_type](/Resources/scores_by_type_adjusted.PNG)
     <br /> -- analysis
     
 ## Summary
