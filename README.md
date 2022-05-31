@@ -9,10 +9,12 @@
 
 * How is the district summary affected?
 Module DataFrame
-![module_district_summary_mod](/Resources/district_summary_df_module.png)
+![module_district_summary_mod](/Resources/district_summary_df_module.PNG)
+
+![County](/Resources/County_Results.PNG)
 
 Adjusted DataFrame
-![module_district_summary_adj](/Resources/district_summary_df_adjusted.png)
+![module_district_summary_adj](/Resources/district_summary_df_adjusted.PNG)
 
 * How is the school summary affected?
 
