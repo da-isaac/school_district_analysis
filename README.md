@@ -35,30 +35,30 @@
     * Math and Reading scores by grade
     <br />*Math Scores by Grade - Module DataFrame*<br />
     ![module_math_scores_grade](/Resources/math_scores_by_grade_module.PNG)
-    <br />*Math Scores by Grade - Adjusted DataFrame*
+    <br />*Math Scores by Grade - Adjusted DataFrame*<br />
     ![adjusted_math_scores_grade](/Resources/math_scores_by_grade_adjusted.PNG)
     <br /> -- analysis --
-    <br />*Reading Scores by Grade - Module DataFrame*
+    <br />*Reading Scores by Grade - Module DataFrame*<br />
     ![module_reading_scores_grade](/Resources/reading_scores_by_grade_module.PNG)
-    <br />*Reading Scores by Grade - Adjusted DataFrame*
+    <br />*Reading Scores by Grade - Adjusted DataFrame*<br />
     ![module_reading_scores_grade](/Resources/reading_scores_by_grade_adjusted.PNG)
     <br /> -- analysis --
     * Scores by school spending
-    <br />*Scores by School Spending - Module DataFrame*
+    <br />*Scores by School Spending - Module DataFrame*<br />
     ![module_scores_by_spending](/Resources/scores_by_spending_module.PNG)
-    <br />*Scores by School Spending - Adjusted DataFrame*
+    <br />*Scores by School Spending - Adjusted DataFrame*<br />
     ![adjusted_scores_by_spending](/Resources/scores_by_spending_adjusted.PNG)
     <br /> -- analysis --
     * Scores by school size
-    <br />*Scores by School Size - Module DataFrame*
+    <br />*Scores by School Size - Module DataFrame*<br />
     ![module_scores_by_size](/Resources/scores_by_size_module.PNG)
-    <br />*Scores by School Size - Adjusted DataFrame*
+    <br />*Scores by School Size - Adjusted DataFrame*<br />
     ![adjusted_scores_by_size](Resources/scores_by_size_adjusted.PNG)
     <br /> -- analysis --
     * Scores by school type
-    <br />*Scores by School Type - Module DataFrame*
+    <br />*Scores by School Type - Module DataFrame*<br />
     ![module_scores_by_type](/Resources/scores_by_type_module.PNG)
-    <br />*Scores by School Type - Adjusted DataFrame*
+    <br />*Scores by School Type - Adjusted DataFrame*<br />
     ![adjusted_scores_by_type](/Resources/scores_by_type_adjusted.PNG)
     <br /> -- analysis
     
