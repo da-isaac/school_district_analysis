@@ -41,25 +41,28 @@ While there was a slight decrease in Thomas High School's overall performance, i
     ![module_reading_scores_grade](/Resources/reading_scores_by_grade_module.PNG)
     <br />*Reading Scores by Grade - Adjusted DataFrame*<br />
     ![module_reading_scores_grade](/Resources/reading_scores_by_grade_adjusted.PNG)
-    <br /> Because only one summary value was affected by the change in math and reading scores, it did not have an impact on any other 9th grade data or other high school data.
+    <br />Because only one summary value was affected by the change in math and reading scores, it did not have an impact on any other 9th grade data or other high school data.<br /><br />
     * Scores by school spending
     <br />*Scores by School Spending - Module DataFrame*<br />
     ![module_scores_by_spending](/Resources/scores_by_spending_module.PNG)
     <br />*Scores by School Spending - Adjusted DataFrame*<br />
     ![adjusted_scores_by_spending](/Resources/scores_by_spending_adjusted.PNG)
-    <br /> -- analysis --
+    <br />No significant change occurred when comparing the scores based on school funding after values were nullified.
+    <br /><br />
     * Scores by school size
     <br />*Scores by School Size - Module DataFrame*<br />
     ![module_scores_by_size](/Resources/scores_by_size_module.PNG)
     <br />*Scores by School Size - Adjusted DataFrame*<br />
     ![adjusted_scores_by_size](Resources/scores_by_size_adjusted.PNG)
-    <br /> -- analysis --
+    <br />No significant change occurred when comparing the scores based on school size after values were nullified.
+    <br /><br />
     * Scores by school type
     <br />*Scores by School Type - Module DataFrame*<br />
     ![module_scores_by_type](/Resources/scores_by_type_module.PNG)
     <br />*Scores by School Type - Adjusted DataFrame*<br />
     ![adjusted_scores_by_type](/Resources/scores_by_type_adjusted.PNG)
-    <br /> -- analysis
+    <br />No significant change occurred when comparing the scores based on school type after values were nullified.
+    <br />
     
 ## Summary
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+While the 9th grade data from Thomas High School needed to be nullified, the impact of these changes were surprisingly small. On a district level, the average math and reading score saw a slight decrease, as did the overall percentage of students passing both reading and math. On a school level, the same overall percentage also saw a decrease.
