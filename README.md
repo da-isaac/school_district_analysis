@@ -8,8 +8,7 @@
 ## Results
 
 * How is the district summary affected?
-<br />
-*District Summary - Module DataFrame*
+<br />*District Summary - Module DataFrame*
 ![module_district_summary](/Resources/district_summary_df_module.PNG)
 
 <br />*District Summary - Adjusted DataFrame*
