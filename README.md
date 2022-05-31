@@ -37,7 +37,7 @@ While there was a slight decrease in Thomas High School's overall performance, i
     ![module_math_scores_grade](/Resources/math_scores_by_grade_module.PNG)
     <br />*Math Scores by Grade - Adjusted DataFrame*<br />
     ![adjusted_math_scores_grade](/Resources/math_scores_by_grade_adjusted.PNG)
-    <br /> -- analysis --
+    <br /> -- analysis -- lol
     <br />*Reading Scores by Grade - Module DataFrame*<br />
     ![module_reading_scores_grade](/Resources/reading_scores_by_grade_module.PNG)
     <br />*Reading Scores by Grade - Adjusted DataFrame*<br />
