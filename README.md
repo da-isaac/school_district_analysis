@@ -8,24 +8,27 @@
 ## Results
 
 * How is the district summary affected?
-<br />**District Summary - Module DataFrame**
+<br />
+<br />*District Summary - Module DataFrame*
 ![module_district_summary](/Resources/district_summary_df_module.PNG)
 
-<br />**District Summary - Adjusted DataFrame**
+<br />*District Summary - Adjusted DataFrame*
 ![adjusted_district_summary](/Resources/district_summary_df_adjusted.PNG)
 
 <br />Ultimately, the district summary didn't see that much of an impact. There was a slight decrease in averages scores for math and reading, and in the percentage of students who passed, but because the students that were removed from the data were such a small piece of the dataset, its impact on a general level was small.
 
 * How is the school summary affected?
-<br />**School Summary - Module DataFrame**
+
+<br />*School Summary - Module DataFrame*
 ![module_per_school_summary](/Resources/per_school_summary_df_module.PNG)
 
-<br />**School Summary - Adjusted DataFrame**
+<br />*School Summary - Adjusted DataFrame*
 ![adjusted_per_school_summary](/Resources/per_school_summary_df_adjusted.PNG)
 
 <br />
 
 * How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?
+
 <br />**Top Schools - Module DataFrame**
 ![module_top_schools](/Resources/top_schools_module.PNG)
 
@@ -42,7 +45,7 @@
     <br /> -- analysis --
     * Scores by school spending
     <br />**Scores by School Spending - Module DataFrame**
-    <br />![module_scores_by_spending](/Resources/scores_by_spending.PNG)
+    <br />![module_scores_by_spending](/Resources/scores_by_spending_module.PNG)
     <br />**Scores by School Spending - Adjusted DataFrame**
     <br /> -- analysis --
     * Scores by school size
