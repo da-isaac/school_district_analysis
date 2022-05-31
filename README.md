@@ -37,12 +37,11 @@ While there was a slight decrease in Thomas High School's overall performance, i
     ![module_math_scores_grade](/Resources/math_scores_by_grade_module.PNG)
     <br />*Math Scores by Grade - Adjusted DataFrame*<br />
     ![adjusted_math_scores_grade](/Resources/math_scores_by_grade_adjusted.PNG)
-    <br /> -- analysis -- lol
     <br />*Reading Scores by Grade - Module DataFrame*<br />
     ![module_reading_scores_grade](/Resources/reading_scores_by_grade_module.PNG)
     <br />*Reading Scores by Grade - Adjusted DataFrame*<br />
     ![module_reading_scores_grade](/Resources/reading_scores_by_grade_adjusted.PNG)
-    <br /> -- analysis --
+    <br /> Because only one summary value was affected by the change in math and reading scores, it did not have an impact on any other 9th grade data or other high school data.
     * Scores by school spending
     <br />*Scores by School Spending - Module DataFrame*<br />
     ![module_scores_by_spending](/Resources/scores_by_spending_module.PNG)
