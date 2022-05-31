@@ -29,7 +29,7 @@
 
 <br />*Top Schools - Adjusted DataFrame*
 ![adjusted_top-schools](/Resources/top_schools_adjusted.PNG)
--- analysis --
+While there was a slight decrease in Thomas High School's overall performance, it was not significant enough to change its ranking when viewing all other schools.
 <br /><br />
 * How does replacing the ninth-grade scores affect the following:
     * Math and Reading scores by grade
